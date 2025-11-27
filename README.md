@@ -5,7 +5,7 @@ Overview
 
 This project analyzes 6,000+ Netflix titles using Power BI to uncover trends in genres, countries, ratings, and release patterns over 70 years. The goal is to present a clear, interactive view of Netflix’s global content library using a clean data model and insightful visuals.
 
-🔧 Tools & Technologies
+# 🔧 Tools & Technologies
 
 Power BI
 
@@ -17,7 +17,7 @@ Star Schema Modeling
 
 Data Cleaning & Transformation
 
-📁 Dataset
+# 📁 Dataset
 
 The dataset includes:
 
@@ -33,7 +33,7 @@ Duration
 
 IMDb Rating & Votes
 
-🛠️ Data Preparation
+# 🛠️ Data Preparation
 
 Cleaned and transformed raw data in Power Query.
 
@@ -43,7 +43,7 @@ Split multi-valued fields (genres, countries) into separate dimension tables.
 
 Built a star schema with fact & dimension tables for efficient querying.
 
-📊 Dashboard Features
+# 📊 Dashboard Features
 
 Interactive visuals covering:
 
@@ -61,7 +61,7 @@ Slicers: year, type, genre, country
 
 Drill-through pages: top directors, top countries, content subtypes
 
-✨ Key Insights
+# ✨ Key Insights
 
 Clear peaks in content production across decades.
 
